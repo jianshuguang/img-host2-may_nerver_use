@@ -1,2 +1,2 @@
-# img-host2-may_nerver_use# 图片托管2-可能永远不用   图片托管2-可能永远不用
+# img-host2-may_nerver_use
 作为一个图床，或许永久都用不到
